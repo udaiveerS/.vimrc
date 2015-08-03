@@ -1,7 +1,8 @@
 # .vimrc
 
 ##Changes Made outside of .vimrc
-Made change to __/share/vim/vim74/ftplugin/__
+Made change to __/share/vim/vim74/ftplugin/html.vim__
 because it was conflicting with code folding in HTML files 
-this might have to do with the plugins installed keys conflicting with YCM. 
-Line 12 in html.vim was changed.
+code folding is disabled on html files. Also html.vim 
+to https://github.com/gregsexton/MatchTag.git for matching 
+tags when editing HTML files
