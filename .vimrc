@@ -1,5 +1,5 @@
 "no swap files
-:set noswapfile
+set noswapfile
 
 "lines
 set number                      "Line numbers are good
